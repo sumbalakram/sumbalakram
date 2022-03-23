@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as data analyst...
-- 🌱 I’m currently learning Machine Learing and Cloud computing ...
+- 🔭 I’m currently working as data analyst
+- 🌱 I’m currently learning Machine Learing and Cloud computing
 - ⚡ Fun fact: Book reading, Painting and Travelling
 -->
